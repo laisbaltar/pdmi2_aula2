@@ -1,6 +1,1 @@
-{
-  "produto": {
-    "nome": "Smartphone Premium",
-    "preco": 5999.99
-  }
-}
+[{"id":1,"nome":"João","idade":20},{"id":2,"nome":"Maria","idade":22},{"id":3,"nome":"Pedro","idade":19},{"id":4,"nome":"Ana","idade":21},{"id":5,"nome":"Lucas","idade":23},{"id":6,"nome":"Carla","idade":24},{"id":7,"nome":"Rafael","idade":20},{"id":8,"nome":"Gabriel","idade":26},{"id":9,"nome":"Beatriz","idade":18},{"id":10,"nome":"Felipe","idade":23}]
